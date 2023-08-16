@@ -6,7 +6,7 @@ GithubにはAtCoder Problemsを使うときや、競プロ用ライブラリを�
 タイピングはある程度出来るほうだと思ってます(6.5-7打/s)
 
 ### Skill
-html&css / javascript / C++ / Python / BrainF**k  
+html&css / javascript / C++ / Python / BrainF**k ←これは多分その内消す  
 正直javascript以外はある程度の文法とかしか分かりません。  
 文法の理解度も低いような言語は外しています(触れてる言語は他にも沢山あります)  
 
