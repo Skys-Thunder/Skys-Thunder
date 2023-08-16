@@ -1,4 +1,4 @@
-# Welcome to my profile!
+# Welcome to my profile! ✨
 ### About Me
 1行で簡潔にまとめると、競プロとか拡張機能開発してる中学生プログラマー。  
 GithubにはAtCoder Problemsを使うときや、競プロ用ライブラリを保存するときにお世話になってます。  
