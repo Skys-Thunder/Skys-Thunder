@@ -17,8 +17,9 @@ html&css / javascript / C++ / Python / BrainF**k ←これは多分その内消�
 AtCoder(競プロ)は茶色です。茶色は基本的にプログラミングが出来れば到達出来る域なので、ある程度のアルゴリズムを使えるのが保証されてるような緑になりたいです(以外と早解きでもなれるのかも)。
 
 ### OMC(OnlineMathContest)
-![image](https://github.com/Skys-Thunder/Skys-Thunder/assets/107789489/feaee656-b795-49b3-9c66-ea38ca5800e0)  
-競技数学ってやつです。中学数学が完璧にできる程度なのでよわよわです。もうちょいで茶色。
+![image](https://github.com/Skys-Thunder/Skys-Thunder/assets/107789489/c375d156-d293-4ca4-94e9-6ef836d597a6)
+
+競技数学ってやつです。中学数学が完璧にできる程度なのでよわよわです。
 
 ### Contact
 基本的に常に返信が出来るのはX(旧Twitter)ぐらいしかありません。  
