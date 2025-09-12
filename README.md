@@ -17,6 +17,6 @@ html&css / javascript / C++ / Python / BrainF**k ←これは多分その内消�
 AtCoder(競プロ)は最高緑です。早く水色になりたい...
 
 ### Contact
-基本的に常に返信が出来るのはX(旧Twitter)ぐらいしかありません。  
+基本的に常に返信が出来るのはDiscordぐらいしかありません。  
 一応メールも....と思ったのですが、プライベートで使っている物しかありませんでした。  
-X(Twitter): [@Skys_Thunder](https://twitter.com/Skys_Thunder)  
+Discord ID: @skys_thunder
