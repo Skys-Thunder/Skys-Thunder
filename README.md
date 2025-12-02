@@ -1,22 +1,18 @@
-# Welcome to my profile! ✨
-### About Me
-1行で簡潔にまとめると、競プロとか拡張機能開発してる高校生(frontend&backend)プログラマー。  
-GithubにはAtCoder Problemsを使うときや、競プロ用ライブラリを保存するときにお世話になってます。  
-(競プロ用ライブラリ(javascript)のピン刺してるので是非見てください！)  
-タイピングはある程度出来るほうだと思ってます(6.5-7打/s)
+<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/cd128582-f15b-46e1-9035-39b85f07eef7" />
 
-### Skill
-html&css / javascript / C++ / Python / BrainF**k ←これは多分その内消す  
-正直javascript以外はある程度の文法とかしか分かりません。  
-文法の理解度も低いような言語は外しています(触れてる言語は他にも沢山あります)  
+# About Me
+Full Stack Dev / High School Student
+1. Creating a bot using discord.js
+2. Creating my website
+3. Challenging CTF
 
-### AtCoder
-![image](https://github.com/Skys-Thunder/Skys-Thunder/assets/107789489/d319554a-e783-4e8f-b4f7-b3d503055ec4)
-![image](https://github.com/Skys-Thunder/Skys-Thunder/assets/107789489/5c0384fd-8e75-4689-b728-3001a5309b7c)  
-現在のレート: [![Sky_Thunder](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FSky_Thunder)](https://atcoder.jp/users/Sky_Thunder)  
-AtCoder(競プロ)は最高緑です。早く水色になりたい...
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,sqlite,supabase,md)](https://skillicons.dev)
 
-### Contact
-基本的に常に返信が出来るのはDiscordぐらいしかありません。  
-一応メールも....と思ったのですが、プライベートで使っている物しかありませんでした。  
+## Tools
+[![My Skills](https://skillicons.dev/icons?i=windows,kali,twitter,discord,github,vscode)](https://skillicons.dev)
+
+## Contact
+I may not be able to reply immediately(JST, UTC+9)  
+X(Twitter) ID: [@skys_thunder](https://x.com/Skys_Thunder)  
 Discord ID: @skys_thunder
