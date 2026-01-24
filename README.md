@@ -1,4 +1,5 @@
 <img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/cd128582-f15b-46e1-9035-39b85f07eef7" />
+<img height="500" src="https://wakatime.com/share/@Sky_Thunder/f9f03e99-aa8d-494c-a97d-3ab941b37487.svg">
 
 # About Me
 Full Stack Dev / High School Student
