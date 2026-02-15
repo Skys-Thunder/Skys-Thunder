@@ -16,4 +16,4 @@ Full Stack Dev / High School Student
 ## Contact
 I may not be able to reply immediately(JST, UTC+9)  
 X(Twitter) ID: [@skys_thunder](https://x.com/Skys_Thunder)  
-Discord ID: @skys_thunder
+Discord ID: [@skys_thunder](https://discord.com/users/1084377985722896454)
